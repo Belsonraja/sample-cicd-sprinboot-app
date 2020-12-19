@@ -16,7 +16,7 @@ before_install:
 # SonarCloud
 addons:
   sonarcloud:
-    organization: "cicd-applied-to-spring-boot-java-app"
+    organization: "belsonraja"
     token:
       secure: $SONAR_TOKEN # encrypted value of your token
 
