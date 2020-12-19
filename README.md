@@ -6,3 +6,6 @@ Implementing Continuous Integration/Continuous Delivery on Spring Boot Java App
 [![codecov](https://codecov.io/gh/Belsonraja/sample-cicd-sprinboot-app/branch/main/graph/badge.svg?token=366KQ22O3S)](https://codecov.io/gh/Belsonraja/sample-cicd-sprinboot-app)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=com.belson:sample-cicd-sprinboot-app&metric=alert_status)](https://sonarcloud.io/dashboard/index/com.belson:sample-cicd-sprinboot-app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Application URL:
+https://sample-cicd-sprinboot-app.herokuapp.com/
