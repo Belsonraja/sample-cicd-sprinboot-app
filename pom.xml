@@ -23,6 +23,9 @@
 		<github.global.server>github</github.global.server>
 		<github.global.oauth2Token>${env.GITHUB_OAUTH_TOKEN}</github.global.oauth2Token>
 		<full-artifact-name>target/${project.artifactId}-${project.version}.jar</full-artifact-name>
+		<sonar.projectKey>Belsonraja_sample-cicd-sprinboot-app</sonar.projectKey>
+  		<sonar.organization>belsonraja</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
 	<dependencies>
